@@ -1,18 +1,18 @@
 {
-  "name": "@antfu/ni",
+  "name": "@noicu/ni",
   "type": "module",
   "version": "0.22.4",
   "packageManager": "pnpm@9.7.1",
   "description": "Use the right package manager",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com>",
+  "author": "cv <ycxgzs@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/antfu-collective/ni#readme",
+  "homepage": "https://github.com/noicu/ni#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antfu-collective/ni.git"
+    "url": "git+https://github.com/noicu/ni.git"
   },
   "bugs": {
-    "url": "https://github.com/antfu-collective/ni/issues"
+    "url": "https://github.com/noicu/ni/issues"
   },
   "exports": {
     ".": {
